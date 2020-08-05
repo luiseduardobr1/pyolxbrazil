@@ -288,13 +288,14 @@ Output:
         initials of the brazilian state where the item is located.
         For example, state='ce' (for Ceará)
                   or state='rj' (for Rio de Janeiro)
+        all states = {ac, al, ap, am, ba, ce, df, es, go, 
+                      ma, mt, ms, mg, pa, pb, pr, pe, pi,
+                      rj, rn, rs, ro, rr, sc, sp, se, to}
 
     Methods
     -------
     extract(filter_by='relevance', all_pages=False, limit=None):
-
         Return a list containing all items available.
-
             filter_by (str):
                 relevance (Default): most relevant items
                 price: cheapest price for the items
