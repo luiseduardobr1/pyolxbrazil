@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+pyolxbrazil/__init__.py
+pyolxbrazil/pyolxbrazil.py
+pyolxbrazil.egg-info/PKG-INFO
+pyolxbrazil.egg-info/SOURCES.txt
+pyolxbrazil.egg-info/dependency_links.txt
+pyolxbrazil.egg-info/requires.txt
+pyolxbrazil.egg-info/top_level.txt
