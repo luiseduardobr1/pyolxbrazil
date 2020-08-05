@@ -71,7 +71,7 @@ results.extract(all_pages=True)
 Ouput:
 ```
 Total results: 167
-[{'Name': 'IPad 3Anunciante online',
+[{'Name': 'IPad 3',
   'ID': '773392297',
   'Image': 'https://img.olx.com.br/thumbs256x256/75/750014311973959.jpg',
   'Price': '900',
